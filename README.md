@@ -1,8 +1,8 @@
-## Hello there, I'm Egor 👋
+# Hello there, I'm Egor 👋
 
 I'm a web and mobile developer, with a passion for building beautiful UIs and leveraging cutting edge tech.
 
-### ✈️ My Tech Stack
+## ✈️ My Tech Stack
 
 - 🌐 Web & Mobile Development
 - ⌨️ TypeScript | JavaScript | Python
@@ -11,7 +11,7 @@ I'm a web and mobile developer, with a passion for building beautiful UIs and le
 - 🏗️ Tools & Frameworks: VS Code, Git, Docker
 - 🔻 Vercel, Firebase
 
-### 🛰️ Open to Work
+## 🛰️ Open to Work
 
 I'm always open to collaborating on new projects or helping with website redesigns. If you need any help within my expertise, I'm here for you.
 
