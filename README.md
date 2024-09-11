@@ -5,11 +5,11 @@ I'm a web and mobile developer, with a passion for building beautiful UIs and le
 ## ✈️ My Tech Stack
 
 - 🌐 Web & Mobile Development
-- ⌨️ TypeScript | JavaScript | Python
-- 💻 Next.js | React | React Native
+- ⌨️ TypeScript | JavaScript | Python | C#
+- 💻 Next.js | React | React Native | Expo
 - 🔧 Node.js | Django
-- 🏗️ Tools & Frameworks: VS Code, Git, Docker
-- 🔻 Vercel, Firebase
+- 🏗️ Tools & Other: VS Code, Git, Docker, PostgreSQL
+- 🔻 Vercel, Firebase, DigitalOcean
 
 ## 🛰️ Open to Work
 
